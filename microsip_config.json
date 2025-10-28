@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "accountDefaults": {
+    "proxy": "",
+    "displayName": "",
+    "dialPlan": "",
+    "hideCID": 0,
+    "voicemailNumber": "",
+    "transport": "udp",
+    "publicAddr": "",
+    "SRTP": "",
+    "registerRefresh": 300,
+    "keepAlive": 15,
+    "publish": 0,
+    "ICE": 0,
+    "allowRewrite": 0,
+    "disableSessionTimer": 0
+  },
+  "accounts": [
+    {
+      "label": "COM (cold)",
+      "server": "35.187.28.23",
+      "domain": "35.187.28.23",
+      "dialingPrefix": "",
+      "index": 0
+    },
+    {
+      "label": "DID (cold)",
+      "server": "didpbx.com",
+      "domain": "didpbx.com",
+      "dialingPrefix": "",
+      "index": 1
+    },
+    {
+      "label": "DID (hot)",
+      "server": "didpbx.com",
+      "domain": "didpbx.com",
+      "dialingPrefix": "01",
+      "index": 2
+    },
+    {
+      "label": "YBC (cold)",
+      "server": "2.58.14.173:5060",
+      "domain": "2.58.14.173:5060",
+      "dialingPrefix": "",
+      "index": 3
+    },
+    {
+      "label": "YCM (hot)",
+      "server": "leonisfx.cloud2.voip-service.cc",
+      "domain": "leonisfx.cloud2.voip-service.cc",
+      "dialingPrefix": "",
+      "index": 4
+    },
+    {
+      "label": "MOM (cold)",
+      "server": "91.92.246.233",
+      "domain": "91.92.246.233",
+      "dialingPrefix": "",
+      "index": 5
+    },
+    {
+      "label": "MOM (hot)",
+      "server": "91.92.246.233",
+      "domain": "91.92.246.233",
+      "dialingPrefix": "001",
+      "index": 6
+    },
+    {
+      "label": "Croco (white)",
+      "server": "sip.portal-crococalls.com",
+      "domain": "sip.portal-crococalls.com",
+      "dialingPrefix": "",
+      "index": 7
+    },
+    {
+      "label": "Croco (black)",
+      "server": "sip.portal-crococalls.com",
+      "domain": "sip.portal-crococalls.com",
+      "dialingPrefix": "",
+      "index": 8
+    },
+    {
+      "label": "Standart (cold)",
+      "server": "server.caller.center",
+      "domain": "server.caller.center",
+      "dialingPrefix": "",
+      "index": 9
+    },
+    {
+      "label": "Gervant",
+      "server": "94.156.128.33:5060",
+      "domain": "94.156.128.33:5060",
+      "dialingPrefix": "",
+      "index": 10
+    },
+    {
+      "label": "Monte",
+      "server": "leo.montevoip.skin",
+      "domain": "leo.montevoip.skin",
+      "dialingPrefix": "",
+      "index": 11
+    },
+    {
+      "label": "GOSH GSM",
+      "server": "185.44.76.9",
+      "domain": "185.44.76.9",
+      "dialingPrefix": "",
+      "index": 12
+    },
+    {
+      "label": "Gargona",
+      "server": "new1.gargona.vip",
+      "domain": "new1.gargona.vip",
+      "dialingPrefix": "",
+      "index": 13
+    },
+    {
+      "label": "COM (white)",
+      "server": "rockstar.pbx.commpeak.com",
+      "domain": "rockstar.pbx.commpeak.com",
+      "dialingPrefix": "",
+      "index": 14
+    },
+    {
+      "label": "Alexi",
+      "server": "46.4.70.142",
+      "domain": "46.4.70.142",
+      "dialingPrefix": "",
+      "index": 15
+    },
+    {
+      "label": "IPVOX",
+      "server": "148.251.107.190",
+      "domain": "148.251.107.190",
+      "dialingPrefix": "",
+      "index": 16
+    },
+    {
+      "label": "Diamond",
+      "chunk": 0,
+      "publish": 1,
+      "allowRewrite": 1
+    },
+    {
+      "label": "Osys",
+      "chunk": 1
+    }
+  ]
+}

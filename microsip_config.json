@@ -130,9 +130,9 @@
       "index": 15
     },
     {
-      "label": "IPVOX",
-      "server": "148.251.107.190",
-      "domain": "148.251.107.190",
+      "label": "Imper",
+      "server": "pbx.imperitel.net",
+      "domain": "pbx.imperitel.net",
       "dialingPrefix": "",
       "index": 16
     },

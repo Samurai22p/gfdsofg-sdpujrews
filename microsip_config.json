@@ -130,9 +130,9 @@
       "index": 15
     },
     {
-      "label": "Imper",
-      "server": "pbx.imperitel.net",
-      "domain": "pbx.imperitel.net",
+      "label": "Zanyat",
+      "server": "162.55.231.152",
+      "domain": "162.55.231.152",
       "dialingPrefix": "",
       "index": 16
     },

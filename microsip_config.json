@@ -9,7 +9,7 @@
     "transport": "udp",
     "publicAddr": "",
     "SRTP": "",
-    "registerRefresh": 60,
+    "registerRefresh": 300,
     "keepAlive": 15,
     "publish": 0,
     "ICE": 0,

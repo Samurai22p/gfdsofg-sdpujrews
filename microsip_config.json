@@ -145,6 +145,14 @@
       "index": 17
     },
     {
+      "label": "Ruby Voip",
+      "server": "sip.iqvoip.cc",
+      "domain": "sip.iqvoip.cc",
+      "transport": "tls",
+      "SRTP": "mandatory",
+      "index": 18
+    },
+    {
       "label": "Diamond",
       "chunk": 0,
       "publish": 1,

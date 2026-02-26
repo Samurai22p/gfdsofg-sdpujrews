@@ -137,7 +137,7 @@
       "index": 16
     },
     {
-      "label": "MVP BALCK ROUTE",
+      "label": "Voip Routes MVP",
       "server": "sip.voiproutes.cc",
       "domain": "sip.voiproutes.cc",
       "transport": "tls",

@@ -142,6 +142,7 @@
       "domain": "31.220.42.106",
       "transport": "tls",
       "SRTP": "mandatory",
+      "allowRewrite": 1,
       "index": 17
     },
     {

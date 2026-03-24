@@ -138,8 +138,8 @@
     },
     {
       "label": "Voip Routes MVP",
-      "server": "sip.voiproutes.cc",
-      "domain": "sip.voiproutes.cc",
+      "server": "31.220.42.106",
+      "domain": "31.220.42.106",
       "transport": "tls",
       "SRTP": "mandatory",
       "index": 17

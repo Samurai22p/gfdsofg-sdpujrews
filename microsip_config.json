@@ -138,8 +138,8 @@
     },
     {
       "label": "Voip Routes MVP",
-      "server": "31.220.42.106",
-      "domain": "31.220.42.106",
+      "server": "de2.sip.mamontcall.com",
+      "domain": "de2.sip.mamontcall.com",
       "transport": "tls",
       "SRTP": "mandatory",
       "allowRewrite": 1,
